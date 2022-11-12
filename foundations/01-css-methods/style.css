@@ -1,5 +1,8 @@
-p  {
-  background-color:green;
-  color:white;
-   font-size:18px;
+
+  div{
+      text-align: center;
+  color: white;
+    background-color: red;
+     font-size:32px;
+      font-weight:bold;
 }
