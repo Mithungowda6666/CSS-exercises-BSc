@@ -2,7 +2,7 @@
   font-family: "Verdana", DejaVu Sans, sans-serif;
   background-color:pink;
 }
-div 
+.div2
 {
 color:blue;
   font-size:32px;
@@ -10,5 +10,15 @@ color:blue;
 .p3 
 {
   font-size:24px;
-  
-  
+  background-color:pink;
+}
+.div4
+{
+  background-color:green;
+  font-size:24px;
+}
+  .p5
+font-family: "Verdana", DejaVu Sans, sans-serif;
+  background-color:pink;
+}  
+    
