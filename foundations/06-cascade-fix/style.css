@@ -29,7 +29,7 @@ body{
   font-size: 20px;
 }
 div.text{
-  font-size:20px;
+  font-size: 20px;
 }
 
 .child {
@@ -41,5 +41,5 @@ div.text{
 div.text.child {
   color: rgb(0, 0, 0);
   font-size: 16px;
-  font-weight:bold;
+  font-weight:800;
 }
